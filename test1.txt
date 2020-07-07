@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C878-281D
+
+ Directory of C:\Users\DELL\Desktop\My Project
+
+07/07/2020  11:36 AM    <DIR>          .
+07/07/2020  11:36 AM    <DIR>          ..
+07/07/2020  11:36 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,200,297,984 bytes free
